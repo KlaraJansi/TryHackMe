@@ -1,16 +1,16 @@
 <h1> Threat Intelligence Tools </h1>
 
 <h3> Task 3  UrlScan.io </h3>
-  ANSWER 1: 345612
-  ANSWER 2: 13
-  ANSWER 3: NAMECHEAP INC
-  ANSWER 4: 2606:4700:10::ac43:1b0a
+  ANSWER 1: 345612 <br/>
+  ANSWER 2: 13 <br/>
+  ANSWER 3: NAMECHEAP INC <br/>
+  ANSWER 4: 2606:4700:10::ac43:1b0a <br/>
 
 <h3> Task 4  Abuse.ch </h3>
-  ANSWER 1: Katana
-  ANSWER 2: Dridex
-  ANSWER 3: DIGITALOCEAN-ASN
-  ANSWER 4: Georgia
+  ANSWER 1: Katana <br/>
+  ANSWER 2: Dridex <br/>
+  ANSWER 3: DIGITALOCEAN-ASN <br/>
+  ANSWER 4: Georgia <br/>
 
 <h3> Task 5  PhishTool </h3>
   ANSWER 1: linkedin <br/>
